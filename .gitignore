@@ -1,0 +1,12 @@
+/build/
+/out/
+
+/.vs/
+/.vscode/
+/.idea/
+
+*.spv
+__pycache__/
+*.pyc
+
+/tests/data/
